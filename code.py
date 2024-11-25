@@ -1,3 +1,3 @@
-print('main')
+print('master')
 
 
